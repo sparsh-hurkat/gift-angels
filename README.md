@@ -9,7 +9,7 @@ As surprising as it sounds now, the website is made with HTML and CSS, with a li
 
 The website was live for 6 months before i took it down as it was almost impossible for me to maintain and update the website along with my studies.
 
-<video controls src="website_recording.mp4" title="Title" autoplay="on"></video>
+<video controls src="website_recording.mp4" title="Title"></video>
 
 ### The Gift Angels is still going strong!!
 
